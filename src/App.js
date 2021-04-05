@@ -9,7 +9,7 @@ function Play() {
   
   return ( 
     <div className='play'>
-      <h1>Tic Tac Toe Game</h1>
+      <h1>Tic Tac Toe Game!</h1>
       <div className='player'>
         <span>X</span>
       </div>
